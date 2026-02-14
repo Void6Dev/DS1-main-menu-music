@@ -1,0 +1,11 @@
+{
+  "main_menu_ds": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "ds1music:menu_theme",
+        "stream": true
+      }
+    ]
+  }
+}
