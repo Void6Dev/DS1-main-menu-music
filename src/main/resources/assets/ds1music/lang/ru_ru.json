@@ -1,0 +1,7 @@
+{
+  "ds1music.configuration.enableMenuMusic": "Музыка из Dark Souls",
+  "ds1music.configuration.enableMenuMusic.tooltip": "Если выключено, будет играть стандартная музыка Minecraft.",
+  "ds1music.configuration.section.ds1music.common.toml.title": "Конфиг клиента",
+  "ds1music.configuration.section.ds1music.common.toml": "Хых",
+  "ds1music.configuration.title": "Конфиг"
+}

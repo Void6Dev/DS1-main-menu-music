@@ -1,13 +1,7 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item",
-
-  "examplemod.configuration.title": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
-  "examplemod.configuration.items": "Item List",
-  "examplemod.configuration.logDirtBlock": "Log Dirt Block",
-  "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "ds1music.configuration.enableMenuMusic": "Music from Dark Souls",
+  "ds1music.configuration.enableMenuMusic.tooltip": "If disabled, the standard Minecraft music will return.",
+  "ds1music.configuration.section.ds1music.common.toml.title": "Client Config",
+  "ds1music.configuration.section.ds1music.common.toml": "huh",
+  "ds1music.configuration.title": "Configuration"
 }
